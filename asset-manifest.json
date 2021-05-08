@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bangalore-burger/static/css/main.7be49ae2.chunk.css",
+    "main.js": "/bangalore-burger/static/js/main.89b0cfcb.chunk.js",
+    "main.js.map": "/bangalore-burger/static/js/main.89b0cfcb.chunk.js.map",
+    "runtime-main.js": "/bangalore-burger/static/js/runtime-main.7b727748.js",
+    "runtime-main.js.map": "/bangalore-burger/static/js/runtime-main.7b727748.js.map",
+    "static/js/2.0b7d08cc.chunk.js": "/bangalore-burger/static/js/2.0b7d08cc.chunk.js",
+    "static/js/2.0b7d08cc.chunk.js.map": "/bangalore-burger/static/js/2.0b7d08cc.chunk.js.map",
+    "index.html": "/bangalore-burger/index.html",
+    "static/css/main.7be49ae2.chunk.css.map": "/bangalore-burger/static/css/main.7be49ae2.chunk.css.map",
+    "static/js/2.0b7d08cc.chunk.js.LICENSE.txt": "/bangalore-burger/static/js/2.0b7d08cc.chunk.js.LICENSE.txt",
+    "static/media/about.5cfaf8a9.png": "/bangalore-burger/static/media/about.5cfaf8a9.png",
+    "static/media/index.css": "/bangalore-burger/static/media/footer.53806b7d.png",
+    "static/media/pimage1.8a4fa455.png": "/bangalore-burger/static/media/pimage1.8a4fa455.png",
+    "static/media/pimage2.b0665d18.png": "/bangalore-burger/static/media/pimage2.b0665d18.png",
+    "static/media/pimage3.8a4fa455.png": "/bangalore-burger/static/media/pimage3.8a4fa455.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b727748.js",
+    "static/js/2.0b7d08cc.chunk.js",
+    "static/css/main.7be49ae2.chunk.css",
+    "static/js/main.89b0cfcb.chunk.js"
+  ]
+}
